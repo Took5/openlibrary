@@ -82,7 +82,7 @@
               "title": "Format",
               "type": "string",
               "default": "json"
-            },
+            }, we
             "name": "format",
             "in": "query",
             "description": "Specifies the response format. Possible values are json and javascript. When not specified the format is javascript."
